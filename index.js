@@ -1,4 +1,4 @@
-const contractAddress ='ct_2qcqwwXmfLmZ3a18yvnv4p8ta9HGoyHRjCDvPMvyAqkuMRwzPD';
+const contractAddress ='ct_22w6RWtMAExcjCnF27Lq3UmUVyFZsTthYFSBfks5FhgCAYCpeY';
 var client = null;
 var memeArray = [];
 var memesLength = 0;
